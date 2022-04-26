@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @natecolburn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently in college studying computer science and have recieved my computer programming certificate 
+- 💞️ I’m up to collaborate on projects and am looking for a computer programming job.
+- 📫 How to reach me: natecolburn@gmail.com
 
-<!---
-natecolburn/natecolburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
